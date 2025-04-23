@@ -1,5 +1,12 @@
 [ 
   {
+    "title": "BareReader",
+    "imageSrc": "./assets/barereader.png",
+    "liveUrl": "https://github.com/BareTools/BareReader/releases",
+    "githubUrl": "https://github.com/BareTools/BareReader",
+    "category": "Web"
+  },
+  {
     "title": "ElectroFer",
     "imageSrc": "./assets/electrofer.png",
     "liveUrl": "https://electrofersanmiguel.com.ar",
