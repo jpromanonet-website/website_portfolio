@@ -1,5 +1,33 @@
 [ 
   {
+    "title": "Menu semanal",
+    "imageSrc": "./assets/generadorcomida.png",
+    "liveUrl": "https://generadorcomidas.vercel.app/",
+    "githubUrl": "https://github.com/jpromanonet/generador_comidas",
+    "category": "Web"
+  },
+  {
+    "title": "Puestito",
+    "imageSrc": "./assets/puestito.png",
+    "liveUrl": "https://puestito.com.ar",
+    "githubUrl": "https://puestito.com.ar",
+    "category": "Web"
+  },
+  {
+    "title": "Soup IT",
+    "imageSrc": "./assets/soupit.png",
+    "liveUrl": "https://soupit.ar",
+    "githubUrl": "https://soupit.ar",
+    "category": "Web"
+  },
+  {
+    "title": "Bare Password Manager",
+    "imageSrc": "./assets/bare_pass_manager.png",
+    "liveUrl": "https://github.com/BareTools/BareReader/releases",
+    "githubUrl": "https://github.com/BareTools/BareReader",
+    "category": "Desktop"
+  },
+  {
     "title": "BareReader",
     "imageSrc": "./assets/barereader.png",
     "liveUrl": "https://github.com/BareTools/BareReader/releases",
