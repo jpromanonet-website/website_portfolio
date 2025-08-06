@@ -278,7 +278,7 @@ function App() {
               <Box className={classes.headerActions}>
                 <Button
                   color="inherit"
-                  href="https://jpromanonet.net"
+                  href="https://jpromano.net"
                   className={classes.headerButton}
                   startIcon={<HomeIcon />}
                 >
