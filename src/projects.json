@@ -1,5 +1,54 @@
 [ 
   {
+    "title": "Pasión Bostera",
+    "imageSrc": "./assets/pasionbostera.png",
+    "liveUrl": "https://pasionbostera.com",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Casa Eme",
+    "imageSrc": "./assets/casaeme.png",
+    "liveUrl": "https://casaeme.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Mayorista G&D",
+    "imageSrc": "./assets/gdmayorista.png",
+    "liveUrl": "https://gdmayorista.com",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Creaciones Marvez",
+    "imageSrc": "./assets/marvez.png",
+    "liveUrl": "https://creacionesmarvez.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Bella Madera",
+    "imageSrc": "./assets/bellamadera.png",
+    "liveUrl": "https://bellamadera.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Mate Gestión",
+    "imageSrc": "./assets/mategestion.png",
+    "liveUrl": "https://mategestion.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Siro Ventures",
+    "imageSrc": "./assets/siroventures.png",
+    "liveUrl": "https://siroventures.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
     "title": "Menu semanal",
     "imageSrc": "./assets/generadorcomida.png",
     "liveUrl": "https://generadorcomidas.vercel.app/",
