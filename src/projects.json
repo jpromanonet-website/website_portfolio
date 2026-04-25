@@ -1,5 +1,47 @@
 [ 
   {
+    "title": "Simulador de trenes argentinos",
+    "imageSrc": "./assets/trenesargentinos.png",
+    "liveUrl": "https://simuladortrenesargentinos.vercel.app",
+    "githubUrl": "https://github.com/jpromanonet/argentina_railrod_simulator",
+    "category": "Web"
+  },
+  {
+    "title": "Hybrid Bee Tech",
+    "imageSrc": "./assets/hybrid.png",
+    "liveUrl": "https://hybridbeetechnology.com",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Imperio Austral",
+    "imageSrc": "./assets/imperioaustral.png",
+    "liveUrl": "https://imperioaustral.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Emunars",
+    "imageSrc": "./assets/emunars.png",
+    "liveUrl": "https://emunars.com",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Cositas Goya",
+    "imageSrc": "./assets/cositasgoya.png",
+    "liveUrl": "https://cositasgoya.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
+    "title": "Fixealo",
+    "imageSrc": "./assets/fixealo.png",
+    "liveUrl": "https://fixealo.com.ar",
+    "githubUrl": "#",
+    "category": "Web"
+  },
+  {
     "title": "Pasión Bostera",
     "imageSrc": "./assets/pasionbostera.png",
     "liveUrl": "https://pasionbostera.com",
