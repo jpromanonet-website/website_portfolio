@@ -1,5 +1,12 @@
 [ 
   {
+    "title": "The AI Platform Engineer Journey",
+    "imageSrc": "./assets/iaroadmap.png",
+    "liveUrl": "https://theairoadmap.vercel.app",
+    "githubUrl": "https://github.com/jpromanonet/The-AI-Platform-Engineer-Journey",
+    "category": "Web"
+  },
+  {
     "title": "Simulador de trenes argentinos",
     "imageSrc": "./assets/trenesargentinos.png",
     "liveUrl": "https://simuladortrenesargentinos.vercel.app",
